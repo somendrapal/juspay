@@ -1,6 +1,12 @@
 # Scratch starter project
 
-To get started:
+## Run the project
 
-- Run `npm i` to install dependencies
-- Run `npm start` and open http://localhost:3000 to see the app
+Install the dependencies, then start the development server:
+
+```bash
+npm install
+npm start
+```
+
+Open http://localhost:3000 to view the app.
